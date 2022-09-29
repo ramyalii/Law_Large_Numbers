@@ -31,10 +31,8 @@ Any sample in statistical inference measurements is threatened by:
 ## Results
 
 <img src="results/shuffled_distribution_population.svg" width="500" height="500">
-
 <img src="results/monte_carlo_sampling.svg" width="500" height="500">
 <img src="results/cumulative_averaging.svg" width="500" height="500">
 <img src="results/squared_error_divergance.svg" width="500" height="500">
 <img src="results/distribution_meta_samples.svg" width="500" height="500">
 
-# LawLargeNumbers
